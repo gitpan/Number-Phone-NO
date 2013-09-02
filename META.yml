@@ -22,17 +22,16 @@ requires:
   Carp: 0
   DBM::Deep: 1.0007
   Number::Phone: 2.2
-  Number::Phone::NO::Data: 0
   Number::Phone::StubCountry::NO: 0
   Scalar::Util: 0
   base: 0
   strict: 0
   warnings: 0
 resources:
-  bugtracker: https://github.com/omega/Number-Phone-NO/issues
-  homepage: https://github.com/omega/Number-Phone-NO
-  repository: https://github.com/omega/Number-Phone-NO.git
-version: 0.10
+  bugtracker: https://github.com/omega/number-phone-no/issues
+  homepage: https://github.com/omega/number-phone-no
+  repository: https://github.com/omega/number-phone-no.git
+version: 0.11
 x_Dist_Zilla:
   perl:
     version: 5.016003

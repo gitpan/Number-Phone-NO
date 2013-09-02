@@ -54,7 +54,6 @@ eval { $v .= pmver('ExtUtils::MakeMaker','6.30') };
 eval { $v .= pmver('File::Find','any version') };
 eval { $v .= pmver('File::Temp','any version') };
 eval { $v .= pmver('Number::Phone','2.2') };
-eval { $v .= pmver('Number::Phone::NO::Data','any version') };
 eval { $v .= pmver('Number::Phone::StubCountry::NO','any version') };
 eval { $v .= pmver('Scalar::Util','any version') };
 eval { $v .= pmver('Test::CPAN::Changes','0.19') };

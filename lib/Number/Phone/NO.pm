@@ -1,6 +1,6 @@
 package Number::Phone::NO;
 {
-  $Number::Phone::NO::VERSION = '0.10';
+  $Number::Phone::NO::VERSION = '0.11';
 }
 
 # ABSTRACT: Number::Phone country package for NO (Norway)
@@ -118,7 +118,7 @@ Number::Phone::NO - Number::Phone country package for NO (Norway)
 
 =head1 VERSION
 
-version 0.10
+version 0.11
 
 =head1 SYNOPSIS
 

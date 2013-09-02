@@ -35,7 +35,6 @@
             "Carp" : "0",
             "DBM::Deep" : "1.0007",
             "Number::Phone" : "2.2",
-            "Number::Phone::NO::Data" : "0",
             "Number::Phone::StubCountry::NO" : "0",
             "Scalar::Util" : "0",
             "base" : "0",
@@ -54,16 +53,16 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/omega/Number-Phone-NO/issues"
+         "web" : "https://github.com/omega/number-phone-no/issues"
       },
-      "homepage" : "https://github.com/omega/Number-Phone-NO",
+      "homepage" : "https://github.com/omega/number-phone-no",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/omega/Number-Phone-NO.git",
-         "web" : "https://github.com/omega/Number-Phone-NO"
+         "url" : "https://github.com/omega/number-phone-no.git",
+         "web" : "https://github.com/omega/number-phone-no"
       }
    },
-   "version" : "0.10",
+   "version" : "0.11",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.016003"

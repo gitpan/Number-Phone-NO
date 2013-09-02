@@ -23,7 +23,6 @@ my %WriteMakefileArgs = (
     "Carp" => 0,
     "DBM::Deep" => "1.0007",
     "Number::Phone" => "2.2",
-    "Number::Phone::NO::Data" => 0,
     "Number::Phone::StubCountry::NO" => 0,
     "Scalar::Util" => 0,
     "base" => 0,
@@ -35,7 +34,7 @@ my %WriteMakefileArgs = (
     "File::Temp" => 0,
     "Test::More" => "0.96"
   },
-  "VERSION" => "0.10",
+  "VERSION" => "0.11",
   "test" => {
     "TESTS" => "t/*.t"
   }
